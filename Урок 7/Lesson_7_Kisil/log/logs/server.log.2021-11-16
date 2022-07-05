@@ -1,0 +1,141 @@
+2021-11-16 06:03:27,350   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:03:34,545   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 59674)
+2021-11-16 06:03:34,545   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637017414.5458372, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:03:34,545   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637017414.5458372, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:03:34,545   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:03:34,545   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 59674) закрывается.
+2021-11-16 06:05:50,828   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:05:56,945   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 58447)
+2021-11-16 06:05:56,945   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637017556.9450886, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:05:56,945   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637017556.9450886, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:05:56,945   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:05:56,945   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 58447) закрывается.
+2021-11-16 06:11:04,388   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:11:09,721   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 53261)
+2021-11-16 06:11:09,721   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637017869.721247, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:11:09,721   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637017869.721247, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:11:09,721   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:11:09,721   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 53261) закрывается.
+2021-11-16 06:15:32,112   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:15:46,145   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 63942)
+2021-11-16 06:15:46,145   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637018146.1453054, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:16:34,371   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:16:41,314   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 64547)
+2021-11-16 06:16:41,314   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637018201.3148763, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:16:41,314   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637018201.3148763, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:16:41,352   DEBUG      decos.py          Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637018201.3148763, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:16:41,352   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:16:41,352   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 64547) закрывается.
+2021-11-16 06:24:51,008   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:24:57,914   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 63947)
+2021-11-16 06:24:57,914   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637018697.914901, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:24:57,914   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637018697.914901, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:24:57,930   DEBUG      decos.py          Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637018697.914901, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:24:57,930   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:24:57,930   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 63947) закрывается.
+2021-11-16 06:27:15,539   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:27:22,841   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 54443)
+2021-11-16 06:27:22,863   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637018842.8418293, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:27:22,863   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637018842.8418293, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:27:22,895   DEBUG      decos.py          Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637018842.8418293, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:27:22,895   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:27:22,895   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 54443) закрывается.
+2021-11-16 06:29:57,583   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:30:05,428   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 51038)
+2021-11-16 06:30:05,481   DEBUG      decos.py          Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51038)>), {}. Вызов из модуля common.utils. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:30:05,481   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637019005.428492, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:30:05,481   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637019005.428492, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:30:05,481   DEBUG      decos.py          Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637019005.428492, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:30:05,481   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:30:05,481   DEBUG      decos.py          Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51038)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:30:05,481   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 51038) закрывается.
+2021-11-16 06:49:11,774   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:49:17,107   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 61641)
+2021-11-16 06:49:17,176   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61641)>), {}. Вызов из модуля common.utils. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:49:17,176   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637020157.1072478, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:49:17,176   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637020157.1072478, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:49:17,176   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637020157.1072478, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:49:17,176   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:49:17,176   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61641)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции s.main().Вызов из функции main
+2021-11-16 06:49:17,176   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 61641) закрывается.
+2021-11-16 06:50:54,368   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:50:58,554   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 55791)
+2021-11-16 06:50:58,623   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55791)>), {}. Вызов из модуля common.utils. Вызов из1 функции s.main().2Вызов из функции main
+2021-11-16 06:50:58,623   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637020258.554438, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:50:58,623   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637020258.554438, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:50:58,623   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637020258.554438, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из1 функции s.main().2Вызов из функции main
+2021-11-16 06:50:58,623   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:50:58,623   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55791)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из1 функции s.main().2Вызов из функции main
+2021-11-16 06:50:58,623   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 55791) закрывается.
+2021-11-16 06:54:24,903   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 06:54:29,252   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 62526)
+2021-11-16 06:54:29,305   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=444, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62526)>), {}. Вызов из модуля common.utils.Вызов из функции main
+2021-11-16 06:54:29,305   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637020469.2522848, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:54:29,305   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637020469.2522848, 'user': {'account_name': 'Guest'}}
+2021-11-16 06:54:29,305   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637020469.2522848, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__.Вызов из функции main
+2021-11-16 06:54:29,305   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 06:54:29,305   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=444, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62526)>, {'response': 200}), {}. Вызов из модуля common.utils.Вызов из функции main
+2021-11-16 06:54:29,305   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 62526) закрывается.
+2021-11-16 07:00:42,495   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:00:47,577   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 59988)
+2021-11-16 07:00:47,646   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59988)>), {}. <class 'function'>Вызов из модуля common.utils.Вызов из функции main
+2021-11-16 07:00:47,646   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637020847.5772305, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:00:47,646   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637020847.5772305, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:00:47,646   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637020847.5772305, 'user': {'account_name': 'Guest'}},), {}. <class 'function'>Вызов из модуля __main__.Вызов из функции main
+2021-11-16 07:00:47,646   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:00:47,646   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59988)>, {'response': 200}), {}. <class 'function'>Вызов из модуля common.utils.Вызов из функции main
+2021-11-16 07:00:47,646   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 59988) закрывается.
+2021-11-16 07:05:06,994   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:05:16,019   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 60902)
+2021-11-16 07:05:16,066   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60902)>), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:05:16,066   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637021116.0198863, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:05:16,066   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637021116.0198863, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:05:16,082   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637021116.0198863, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main
+2021-11-16 07:05:16,082   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:05:16,082   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60902)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:05:16,082   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 60902) закрывается.
+2021-11-16 07:09:26,926   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:09:32,881   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 55921)
+2021-11-16 07:09:32,943   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55921)>), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:09:32,943   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637021372.8813853, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:09:32,943   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637021372.8813853, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:09:32,943   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637021372.8813853, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main
+2021-11-16 07:09:32,943   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:09:32,943   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55921)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:09:32,943   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 55921) закрывается.
+2021-11-16 07:10:07,834   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:10:11,330   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 53592)
+2021-11-16 07:10:11,392   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53592)>), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:10:11,392   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637021411.330101, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:10:11,392   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637021411.330101, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:10:11,392   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637021411.330101, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main
+2021-11-16 07:10:11,392   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:10:11,392   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53592)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:10:11,392   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 53592) закрывается.
+2021-11-16 07:13:09,344   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:13:15,115   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 60060)
+2021-11-16 07:13:15,177   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60060)>), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:13:15,177   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637021595.115079, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:13:15,177   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637021595.115079, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:13:15,177   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637021595.115079, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main
+2021-11-16 07:13:15,177   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:13:15,177   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60060)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:13:15,177   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 60060) закрывается.
+2021-11-16 07:20:01,659   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:20:07,759   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 55242)
+2021-11-16 07:20:07,812   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55242)>), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:20:07,812   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637022007.7593749, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:20:07,812   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637022007.7593749, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:20:07,812   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637022007.7593749, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main
+2021-11-16 07:20:07,812   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:20:07,828   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55242)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:20:07,828   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 55242) закрывается.
+2021-11-16 07:24:04,020   INFO       server.py         Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-16 07:24:10,911   INFO       server.py         Установлено соедение с ПК ('127.0.0.1', 56488)
+2021-11-16 07:24:10,974   DEBUG      server.py         Была вызвана функция get_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=140, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56488)>), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:24:10,974   DEBUG      server.py         Получено сообщение {'action': 'presence', 'time': 1637022250.9116797, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:24:10,974   DEBUG      server.py         Разбор сообщения от клиента : {'action': 'presence', 'time': 1637022250.9116797, 'user': {'account_name': 'Guest'}}
+2021-11-16 07:24:10,974   DEBUG      server.py         Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1637022250.9116797, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main
+2021-11-16 07:24:10,974   INFO       server.py         Cформирован ответ клиенту {'response': 200}
+2021-11-16 07:24:10,974   DEBUG      server.py         Была вызвана функция send_message c параметрами (<class 'common.utils.MessageProcessing'>, <socket.socket fd=140, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56488)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main
+2021-11-16 07:24:10,974   DEBUG      server.py         Соединение с клиентом ('127.0.0.1', 56488) закрывается.
