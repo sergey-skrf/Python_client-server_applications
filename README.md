@@ -1,1 +1,2 @@
-# Python_client-server_applications
+# Клиент-серверные приложения на Python.
+Перечень выполненных заданий.
